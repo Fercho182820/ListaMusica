@@ -15,7 +15,7 @@ src/Main.java             	Menú de consola
 src/PruebasLista.java	      Pruebas de funcionamiento
 
 Integrantes del equipo
-Licea Duque Sealtiel Aldebaran 
-Lopez Rivas Gustavo Alexis 
-Jasso Lira Roberto Carlos 
+Licea Duque Sealtiel Aldebaran, 
+Lopez Rivas Gustavo Alexis,
+Jasso Lira Roberto Carlos,
 Garcia Hernandez Luis Fernando 
